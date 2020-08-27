@@ -1,7 +1,7 @@
 print("Hello World!")
 name = input("Enter your name: ")
 
-print("hello, " + name + "!" )
+print("Hello, " + name + "!" )
 age = input("Enter your age: ")
 age = int(age)
 print(age + 1)
